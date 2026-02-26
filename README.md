@@ -33,7 +33,7 @@ The primary workflow is contained in `pipeline.ipynb`. The pipeline processes si
 
 ### Distance Matrix (Significant Guides)
 Shows the hierarchical clustering of pairwise energy distances between guides that reached statistical significance.
-![Distance Matrix](results/all/only_gene_matrix.jpg)
+![Distance Matrix](results/all/all_gg_matrix.jpg)
 
 ### Isomap Clustering
 Shows the projection of guides into a 2D Isomap embedding, clustered using Affinity Propagation.
